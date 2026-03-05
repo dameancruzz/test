@@ -7,7 +7,7 @@ read num1
 echo "Enter the second number:"
 read num2
 
-# Calculate the sum using arithmetic expansion
+# Calculate the sum
 sum=$((num1 + num2))
 
 # Display the result
